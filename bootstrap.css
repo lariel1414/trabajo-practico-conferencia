@@ -84,11 +84,13 @@ width: 100%;
 }
 .ariel3 
 {
-  background: rgba(0, 9, 128, 0.948);
+  background:rgba(50, 50, 107, 0.863);
   width: 100%;
   margin: auto;
   text-align: center;
-}
+  padding-top: 15px;
+  margin-top: 15px;
+ }
 
 body {
   margin: 0;
